@@ -1,2 +1,2 @@
 # SoftUni-Courses
-Curses from my education
+Courses from my education
